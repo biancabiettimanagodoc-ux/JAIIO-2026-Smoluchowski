@@ -12,7 +12,7 @@ Este repositorio contiene el código fuente y el material gráfico suplementario
 * **`Fig3_DLog.pdf`**: Diagrama de bloques algorítmico mostrando el calculo de las diferenciales.
 
 ## Requisitos
-Para ejecutar el simulador se requiere [Scilab](https://www.scilab.org/) (probado en la versión X.X).
+Para ejecutar el simulador se requiere [Scilab](https://www.scilab.org/).
 
 ## Autores
 * Bianca Bietti Managó
